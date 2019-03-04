@@ -33,6 +33,20 @@ $ mvn test
 $ mvn spring-boot:run
 ```
 
+**Dependencies**
+
+```
+<dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-test</artifactId>
+  <scope>test</scope>
+</dependency>
+<dependency>
+  <groupId>org.projectlombok</groupId>
+  <artifactId>lombok</artifactId>
+</dependency>
+```
+
 **Need to have**
 
 - [Java 1.8 or above](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
