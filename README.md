@@ -1,6 +1,6 @@
 # spring-boot-unit-and-integration-tests
 
-Project demonstrating how to write tests unit and integration in a Spring Boot environment.
+Project demonstrating how to write unit tests and integration tests in a Spring Boot environment.
 
 **Insights**
 
