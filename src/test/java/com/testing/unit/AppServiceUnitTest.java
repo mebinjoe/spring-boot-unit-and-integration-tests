@@ -23,7 +23,7 @@ import static org.mockito.Mockito.when;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class AppServiceUnitTests {
+public class AppServiceUnitTest {
 
     @Autowired
     private AppService appService;
